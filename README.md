@@ -45,3 +45,6 @@ sort parameter-sweep.txt -k12,12n | tail
 ```properties
 python binance-reader-candle.py BTCUSD 1677045600 1677132000 1 btcusd.csv
 ```
+ScreenShot
+
+![image](https://github.com/tanmay6anand/Bitcoin-backtracker/assets/76907677/68dfde32-fe2e-4c07-ada4-62bd95474b01)
